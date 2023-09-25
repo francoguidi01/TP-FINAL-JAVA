@@ -1,0 +1,128 @@
+[
+  {
+    "nombre": "Julian",
+    "apellido": "Zapata",
+    "idCliente": "c625e7",
+    "turnosAcumulados": 40,
+    "telefono": "2234567899"
+  },
+  {
+    "nombre": "Martin",
+    "apellido": "Montagner",
+    "idCliente": "82a3bd",
+    "turnosAcumulados": 40,
+    "telefono": "2234567899"
+  },
+  {
+    "nombre": "Franco",
+    "apellido": "Guidi",
+    "idCliente": "4f07c9",
+    "turnosAcumulados": 40,
+    "telefono": "2234567899"
+  },
+  {
+    "nombre": "Kevin",
+    "apellido": "Tolosa",
+    "idCliente": "d2e6f1",
+    "turnosAcumulados": 40,
+    "telefono": "2234567899"
+  },
+  {
+    "nombre": "Michael",
+    "apellido": "Jordan",
+    "idCliente": "9b8530",
+    "turnosAcumulados": 40,
+    "telefono": "2232323232"
+  },
+  {
+    "nombre": "Emiliano",
+    "apellido": "Martinez",
+    "idCliente": "1a9d78",
+    "turnosAcumulados": 40,
+    "telefono": "2231111111"
+  },
+  {
+    "nombre": "Paulo",
+    "apellido": "Dybala",
+    "idCliente": "e405a2",
+    "turnosAcumulados": 40,
+    "telefono": "2232121212"
+  },
+  {
+    "nombre": "Michael",
+    "apellido": "Jackson",
+    "idCliente": "37f1b6",
+    "turnosAcumulados": 40,
+    "telefono": "2237777777"
+  },
+  {
+    "nombre": "Lionel",
+    "apellido": "Messi",
+    "idCliente": "a8c024",
+    "turnosAcumulados": 40,
+    "telefono": "2231010101"
+  },
+  {
+    "nombre": "Magic",
+    "apellido": "Johnson",
+    "idCliente": "591d43",
+    "turnosAcumulados": 40,
+    "telefono": "2233232323"
+  },
+  {
+    "nombre": "Thomas",
+    "apellido": "Shelby",
+    "idCliente": "f2ca786",
+    "turnosAcumulados": 40,
+    "telefono": "2239876541"
+  },
+  {
+    "nombre": "Lucas",
+    "apellido": "Perez",
+    "idCliente": "c36ca43",
+    "turnosAcumulados": 40,
+    "telefono": "2232589632"
+  },
+  {
+    "nombre": "Mateo",
+    "apellido": "Gonzalez",
+    "idCliente": "1c49407",
+    "turnosAcumulados": 40,
+    "telefono": "2231478523"
+  },
+  {
+    "nombre": "Homero",
+    "apellido": "Chino",
+    "idCliente": "cf454ba",
+    "turnosAcumulados": 40,
+    "telefono": "2230000000"
+  },
+  {
+    "nombre": "Claudia",
+    "apellido": "Rodriguez",
+    "idCliente": "f88325e",
+    "turnosAcumulados": 40,
+    "telefono": "2237895412"
+  },
+  {
+    "nombre": "Julieta",
+    "apellido": "Gutierrez",
+    "idCliente": "eca3714",
+    "turnosAcumulados": 40,
+    "telefono": "2233216547"
+  },
+  {
+    "nombre": "Guillermo",
+    "apellido": "del Toro",
+    "idCliente": "9cf61d4",
+    "turnosAcumulados": 40,
+    "telefono": "2236659873"
+  },
+  {
+    "nombre": "Peter",
+    "apellido": "Parker",
+    "idCliente": "82d6c9b",
+    "turnosAcumulados": 40,
+    "telefono": "2238896541"
+  }
+]
